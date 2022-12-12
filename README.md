@@ -7,7 +7,7 @@
 </div>
 <br>
   
-👨‍💻 ### Technologies 
+### Technologies 👨‍💻 
   
 <br>
   
@@ -24,7 +24,7 @@
   
  <br>
 
-📱 ### Contacts 
+### Contacts 📱
   
 <br>
  
