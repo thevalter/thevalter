@@ -2,7 +2,7 @@
 ### My name is Valter, I'm 19 years old and I'm a web developer 
 <div>
   <a href="https://github.com/thevalter">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=thevalter&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  ![thevaler GitHub stats](https://github-readme-stats.vercel.app/api?username=thevalter&show_icons=true&theme=dark)
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?top-langs/?username=thevalter&layout=compact&langs_count=7&theme=dracula"/>
 </div>
